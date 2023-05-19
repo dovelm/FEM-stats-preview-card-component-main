@@ -30,14 +30,14 @@ Users should be able to:
 
 ### Screenshots
 
-![]()
+![](https://github.com/dusvimarin/FEM-stats-preview-card-component-main/blob/main/screenshots/desktop%20design.png)
 
-![]()
+![](https://github.com/dusvimarin/FEM-stats-preview-card-component-main/blob/main/screenshots/mobile.png)
 
 
 ### Links
 
-[My Solution]()
+[My Solution](https://dusvimarin.github.io/FEM-stats-preview-card-component-main)
 
 
 ## My process
