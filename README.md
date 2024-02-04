@@ -30,14 +30,14 @@ Users should be able to:
 
 ### Screenshots
 
-![](https://github.com/dusvimarin/FEM-stats-preview-card-component-main/blob/main/screenshots/desktop%20design.png)
+![](https://github.com/dovelym/FEM-stats-preview-card-component-main/blob/main/screenshots/desktop%20design.png)
 
-![](https://github.com/dusvimarin/FEM-stats-preview-card-component-main/blob/main/screenshots/mobile.png)
+![](https://github.com/dovelym/FEM-stats-preview-card-component-main/blob/main/screenshots/mobile.png)
 
 
 ### Links
 
-[My Solution](https://dusvimarin.github.io/FEM-stats-preview-card-component-main)
+[My Solution](https://dovelym.github.io/FEM-stats-preview-card-component-main)
 
 
 ## My process
@@ -64,5 +64,5 @@ I learned to use elements flexbox, layout of 1000px and mobile.
 - Google chome/tools/development tools
 
 ## Author
-[@dusvimarin](https://github.com/dusvimarin)
+[@dusvy_m](https://github.com/dovelym)
 
